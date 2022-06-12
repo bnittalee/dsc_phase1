@@ -37,6 +37,7 @@ ______
 # Results
 
 
-```python
+<img src = "https://github.com/bnittalee/dsc_phase1/blob/main/Images/genres_most_fresh_rating.png" width="600" height="500">
+
 
 ```
