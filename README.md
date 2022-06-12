@@ -4,7 +4,7 @@
 
 <h2> Author: Brittney Nitta-Lee</h2>
 
-<h3>Blog post: coming soon
+
 </h3>
 
 ______
@@ -58,3 +58,6 @@ ______
   
   ### Studios 
   <p> The top grossing studio is Buena Vista which handles the distribution of films produced by Walt Disney Studios. Though Microsoft wants to create their own studio, it’s worth looking to see who their competitors are. </p>
+
+# For More Information 
+<p> For more information, contact Brittney Nitta-Lee at bnittalee@gmail.com 
