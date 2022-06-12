@@ -39,11 +39,11 @@ ______
 <img src = "https://github.com/bnittalee/dsc_phase1/blob/main/Images/genres_most_fresh_rating.png" width="600" height="500">
 
 <p> Drama and comedy has the highest fresh rating </p>
-```
+
 <img src = "https://github.com/bnittalee/dsc_phase1/blob/main/Images/movie_content_most_fresh_rating.png" width="600" height="600">
 <p> Not Rated and Rated G movies has the highest fresh rating </p>
  
- <img src = "https://github.com/bnittalee/dsc_phase1/blob/main/Images/top_grossing_movie_genres.png" width="600" height="800">
+ <img src = "https://github.com/bnittalee/dsc_phase1/blob/main/Images/top_grossing_movie_genres.png" width="600" height="1000">
  <p> Adventure is the top grossing move genre </p>
  
   <img src = "https://github.com/bnittalee/dsc_phase1/blob/main/Images/top_grossing_studios.png" width="600" height="1000">
