@@ -19,8 +19,7 @@ ______
 <br>1. What genre of movies are the most popular based on user ratings? 
 <br>2. What are the top grossing movie genres?
 <br>3. What movie content rating based on genre is the most popular?
-<br>4. What are the movie runtimes based on genre?
-<br>5. What are the top grossing movie studios?
+<br>4. What are the top grossing movie studios?
 </br>
 </p>
 
