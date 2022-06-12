@@ -11,7 +11,7 @@ ______
 
 <h2> Introduction </h2>
 
-<p> This project analyzes data from IMDB and Rotten Tomatoes to explore which genres and movie studios are the most successful in the movie industry. The client is looking to create a new movie studio to produce original video content and wants to know what type of films are doing best at the box office. This analysis provides insights for the client to help decide what movies to create.  </p>
+<p> This project analyzes data from IMDB and Rotten Tomatoes to explore which genres and movie studios are the most successful in the movie industry. Microsoft is looking to create a new movie studio to produce original video content and wants to know what type of films are doing best at the box office. This analysis provides insights for the client to help decide what movies to create.  </p>
 
 ## Questions 
 
@@ -48,3 +48,13 @@ ______
  
   <img src = "https://github.com/bnittalee/dsc_phase1/blob/main/Images/top_grossing_studios.png" width="600" height="1000">
   <p> Buena Vista is the top grossing movie studio </p>
+  
+  # Recommendations 
+  ### Genres
+  <p> Microsoft should create either drama, comedy, adventure and action films. Adventure and comedy films are both the highest grossing genres.</p>
+  
+  ### Content Ratings
+  <p> The highest rated movies are either not rated or a G Rating. Microsoft should focus on creating unrated and G-rated movies. </p>
+  
+  ### Studios 
+  <p> The top grossing studio is Buena Vista which handles the distribution of films produced by Walt Disney Studios. Though Microsoft wants to create their own studio, it’s worth looking to see who their competitors are. </p>
