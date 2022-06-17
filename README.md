@@ -15,7 +15,7 @@ ______
 
 ## Questions 
 
-<p> This project will address five questions about the movie industry:<br>
+<p> This project will address four questions about the movie industry:<br>
 <br>1. What genre of movies are the most popular based on user ratings? 
 <br>2. What are the top grossing movie genres?
 <br>3. What movie content rating based on genre is the most popular?
